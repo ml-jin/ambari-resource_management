@@ -1,0 +1,1 @@
+# ambari-resource_management
